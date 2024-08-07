@@ -14,7 +14,8 @@ get fresh news for selected categories
 save selected news to read later
 search for news with your keyword
 
-https://github.com/user-attachments/assets/8d54ef36-40ac-4794-8157-649e5c403df4
+https://github.com/user-attachments/assets/debdfa5c-690d-424f-a451-e1d3d2c09851
+
 <img src=https://github.com/user-attachments/assets/aebcabe4-2f55-4edc-9805-2b60ca010eb7 height="700">
 <img src=https://github.com/user-attachments/assets/4960cdf1-1692-4962-9d85-70165d5fa9ad height="700">
 <img src=https://github.com/user-attachments/assets/ccb96f76-dc37-420b-b24c-d7e77880f652 height="700">
